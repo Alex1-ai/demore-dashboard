@@ -1,0 +1,22 @@
+.categoryList {
+    flex: 4;
+  }
+
+  .categoryListEdit {
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    background-color: #3bb077;
+    color: white;
+    cursor: pointer;
+    margin-right: 20px;
+  }
+
+  .categoryListDelete {
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+  }
